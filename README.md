@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://anusha666k.github.io//)**
 
-- 🔭 I’m currently working on `Kpost in Chennai`.
+- 🔭 I’m currently working on `Kpost India in Chennai`.
 
 - 🌱 I’m currently devloping `React.js`
 
