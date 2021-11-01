@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://www.advanceecomsolutions.com/wp-content/uploads/2019/09/web-deve-3.jpg" width="30px"> I'm Anusha K</h1>
+<h1 align="center">Hello<img width="30px"> I'm Anusha K</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img   height="290px" align="right" />
+<img   src="https://www.advanceecomsolutions.com/wp-content/uploads/2019/09/web-deve-3.jpg" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://anusha666k.github.io//)**
 
