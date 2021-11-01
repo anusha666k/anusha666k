@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi Anusha👋
 
 <!--
-**anusha666k/anusha666k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src ="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/banner.png" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
