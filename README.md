@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jai Balaji</h1>
+<h1 align="center">Hello<img src="https://www.advanceecomsolutions.com/wp-content/uploads/2019/09/web-deve-3.jpg" width="30px"> I'm Anusha K</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,22 +12,24 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://github.com/soumyajit4419/soumyajit4419/raw/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img   height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://balaravanan.github.io//)**
+- 🙋‍♂️ All about me is at **[My Website](https://anusha666k.github.io//)**
 
 - 🔭 I’m currently working on `Kpost in Chennai`.
 
-- 🌱 I’m currently learning `Node.js`
+- 🌱 I’m currently devloping `React.js`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m A 'Web devloper`
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Previously Working on'Angular developer'
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: Time most important,Every moment speed to Happly
 
 ## 🛠️ Technologies and Tools I use:
 <p>
+  <img src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2015/01/vignette-angularjs-1.jpg?w=702&ssl=1"/>
+  <br/>
 <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"/>
 <img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"/>
 <img src="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/>
