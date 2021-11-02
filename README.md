@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Kpost India in Chennai`.
 
-- 🌱 I’m currently devloping `React.js`
+- 🌱 I’m currently developing `React.js`
 
 - 👯 I’m A 'Web developer`
 
