@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m A 'Web developer`
 
-- 👨‍💻 Previously Working on'Angular Webdeveloper'
+- 👨‍💻 Previously Working on'Angular UI Web'
 
 - ⚡ Fun fact: Time most important,Every moment speed to Happly
 
