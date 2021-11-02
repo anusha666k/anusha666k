@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently devloping `React.js`
 
-- 👯 I’m A 'Web devloper`
+- 👯 I’m A 'Web developer`
 
 - 👨‍💻 Previously Working on'Angular developer'
 
